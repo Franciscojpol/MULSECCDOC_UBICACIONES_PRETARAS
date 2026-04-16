@@ -26,7 +26,7 @@
       **   solo paso.
       **
       ** Cambio: Lgmt-3555. Autor: FRANJPOL. Fecha: 27/03/2026
-      ** [MULSECCDOC] UBLPRE Ubicacion de Bultos PRETARAS
+      ** [MULSECCDOC] UBLPRE Ubicacion de Bultos PRETARAS 
       ** Adaptación a la multisección de las ubicaciones.
       ** Se realiza ajustes en la sentencia de SQLConforma.
       *****************************************************************
